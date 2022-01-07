@@ -4,13 +4,13 @@
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriUY&column=6&margin-w=10&margin-h=10&theme=radical" alt="shikhasingh229" /></a> </p><br/>
 <h2 align="left">👩🏻‍💼About Me:</h2>
 <p>
-- 🌈 I’m starting my things.
-- 🌱 I’m currently learning.
-- 👩🏻‍💻 All of my projects are available at [https://github.com/shikhasingh229](https://github.com/shikhasingh229)
-- 📫 How to reach me *shikhas.ug20.cse@nitp.ac.in*
-- 🥅 2022 Goals: *Contribute more to Open Source Projects*
-- 🌟 Fact: *We are Stardust, meant to Shine.*
-- 🍽 *I am basically a Foodie*
+- 🌈 I’m starting my things.<br>
+- 🌱 I’m currently learning.<br>
+- 👩🏻‍💻 All of my projects are available at [https://github.com/shikhasingh229](https://github.com/shikhasingh229)<br>
+- 📫 How to reach me *shikhas.ug20.cse@nitp.ac.in*<br>
+- 🥅 2022 Goals: *Contribute more to Open Source Projects*<br>
+- 🌟 Fact: *We are Stardust, meant to Shine.*<br>
+- 🍽 *I am basically a Foodie*<br>
 </p>
 <br/>
 <h2 align="center">Connect with me:</h2>

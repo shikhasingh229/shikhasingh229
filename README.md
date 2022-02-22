@@ -7,7 +7,7 @@
 - 🌈 I’m starting my things.<br>
 - 🌱 I’m currently learning.<br>
 - 👩🏻‍💻 All of my projects are available at https://github.com/shikhasingh229<br>
-- 📫 How to reach me <a href="shikhas.ug20.cse@nitp.ac.in" target="blank"><br>
+  - 📫 How to reach me <a href="shikhas.ug20.cse@nitp.ac.in" target="blank"></a><br>
 - 🥅 2022 Goals: <b>Contribute more to Open Source Projects</b><br>
 - 🌟 Fact: <b>We are Stardust, meant to Shine.</b><br>
 - 🍽 <b>I am basically a Foodie</b><br>

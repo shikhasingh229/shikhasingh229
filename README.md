@@ -8,9 +8,8 @@
 - 🌱 I’m currently learning.<br>
 - 👩🏻‍💻 All of my projects are available at https://github.com/shikhasingh229<br>
 - 📫 How to reach me **shikhas.ug20.cse@nitp.ac.in** <br>
-- 🥅 2022 Goals: **Contribute more to Open Source Projects**<br>
+- 🥅 2024 Goals: **Learn New Things**<br>
 - 🌟 Fact: **We are Stardust, meant to Shine.**<br>
-- 🍽 **I am basically a Foodie**<br>
 
 <br/>
 <h2 align="center">Connect with me:</h2>
